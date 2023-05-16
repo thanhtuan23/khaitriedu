@@ -5,5 +5,6 @@
 </br>
 3/ vào http://localhost/khaitriedu/admin/ để vào phần admin thực hiện CRUD
 </br>
-4/ vào http://localhost/khaitriedu/ để xem giao diện người dùng 
+4/ vào http://localhost/khaitriedu/ để xem giao diện người dùng
+</br>
 Project gốc của BluePhoenixxx: https://github.com/BluePhoenixxx
